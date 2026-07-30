@@ -1,0 +1,10 @@
+# Compiled executable
+taranctl
+
+# Object files
+*.o
+
+# Editor backup files
+*~
+*.swp
+*.swo
